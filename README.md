@@ -1,6 +1,6 @@
 # Historic Facts Generator: AI-Powered Narratives for Tourism 🌍🤖
 
-<img src="https://images.unsplash.com/photo-1503220317375-aaad61436b1b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80" alt="Tourism Banner" width="800" height="200" />  
+<img src="https://images.unsplash.com/photo-1503220317375-aaad61436b1b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80" alt="Tourism Banner" width="600" height="400" />  
 *(Image Source: Unsplash - Tourism Banner)*
 
 ---
